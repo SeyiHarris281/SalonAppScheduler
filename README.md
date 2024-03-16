@@ -1,0 +1,1 @@
+freeCodeCamp project including postgreSQL database and bash script for salon appointment scheduler application.
